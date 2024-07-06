@@ -25,7 +25,7 @@ const Works = () => {
               </div>
             </div>
             <div className="p-6 px-0 xl:p-8 xl:px-0 w-full h-[60%] xl:h-1/2 flex flex-col justify-between text-black">
-              <h2 className="text-3xl font-extrabold md:text-4xl xl:font-black font-[ME]">Strategy & Planning</h2>
+              <h2 className="text-4xl font-semibold md:text-5xl">Strategy & Planning</h2>
               <p className="md:text-lg xl:font-light">We begin with in-depth research and clear goal-setting, followed by a comprehensive content calendar. By monitoring performance and making data-driven adjustments, we ensure maximum engagement and measurable results for our clients.</p>
             </div>
           </div>
@@ -40,7 +40,7 @@ const Works = () => {
               </div>
             </div>
             <div className="p-6 px-0 xl:p-8 xl:px-0 w-full h-[60%] flex flex-col justify-between text-black">
-              <h2 className="text-3xl font-extrabold md:text-4xl xl:font-black font-[ME]">Content Research</h2>
+              <h2 className="text-4xl font-semibold md:text-5xl">Content Research</h2>
               <p className="md:pt-5 md:text-lg xl:font-light">Involving in-depth analysis of target audiences, industry trends, and competitor strategies. Our content is relevant, engaging, and effective. We create compelling content that meets client goals and resonates with their audience.</p>
             </div>
           </div>
@@ -55,7 +55,7 @@ const Works = () => {
               </div>
             </div>
             <div className="p-6 px-0 xl:p-8 xl:px-0 w-full h-[60%] flex flex-col justify-between text-black">
-              <h2 className="text-3xl font-extrabold md:text-4xl xl:font-black font-[ME]">Storytelling</h2>
+              <h2 className="text-4xl font-semibold md:text-5xl">Storytelling</h2>
               <p className="md:pt-5 md:text-lg xl:font-light">We craft stories that resonate emotionally with audiences, making complex ideas accessible and memorable. Through compelling characters, relatable experiences, and engaging plots, we create content that connects deeply and drives meaningful engagement.</p>
             </div>
           </div>
@@ -70,7 +70,7 @@ const Works = () => {
               </div>
             </div>
             <div className="p-6 px-0 xl:p-8 xl:px-0 w-full h-[60%] xl:h-1/2 flex flex-col justify-between text-black">
-              <h2 className="text-3xl font-extrabold md:text-4xl xl:font-black font-[ME]">Video Filming</h2>
+              <h2 className="text-4xl font-semibold md:text-5xl">Video Filming</h2>
               <p className="md:text-lg xl:font-light">Combining creativity with technical expertise to produce high-quality visuals. We handle everything from scripting and storyboarding to shooting, ensuring each video aligns with the client's vision and engages their audience effectively.</p>
             </div>
           </div>
@@ -85,7 +85,7 @@ const Works = () => {
               </div>
             </div>
             <div className="p-6 px-0 xl:p-8 xl:px-0 w-full h-[60%] xl:h-1/2 flex flex-col justify-between text-black">
-              <h2 className="text-3xl font-extrabold md:text-4xl xl:font-black font-[ME]">Video Editing</h2>
+              <h2 className="text-4xl font-semibold md:text-5xl">Video Editing</h2>
               <p className="md:text-lg xl:font-light">Turning raw footage into polished, engaging content. Our skilled editors use advanced techniques to enhance visuals, add effects, and ensure seamless transitions. We focus on storytelling, pacing, and quality to create videos that captivate and resonate with audiences.</p>
             </div>
           </div>
@@ -100,7 +100,7 @@ const Works = () => {
               </div>
             </div>
             <div className="p-6 px-0 xl:p-8 xl:px-0 w-full h-[60%] flex flex-col justify-between text-black">
-              <h2 className="text-3xl font-extrabold md:text-4xl xl:font-black font-[ME]">Graphic Design</h2>
+              <h2 className="text-4xl font-semibold md:text-5xl">Graphic Design</h2>
               <p className="md:pt-5 md:text-lg xl:font-light">Our talented designers create eye-catching graphics that align with brand identity and engage audiences. We ensure every design element communicates the client's message effectively and beautifully that grab attention and encourage clicks.</p>
             </div>
           </div>

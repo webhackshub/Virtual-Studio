@@ -10,7 +10,7 @@ const   Contact = () => {
           <div className="w-full xl:w-[65%] h-[50vh] p-6 xl:p-8 rounded-2xl flex flex-col-reverse xl:flex-row items-start justify-center text-white bg-[#1f1f1f]">
             <div className="w-full xl:w-[60%] h-1/2 xl:h-full flex flex-col items-start justify-center">
               <h4 className="md:text-xl font-medium text-[#85f854]">Got a project in mind?</h4>
-              <h2 className="p-2 md:p-5 md:px-0 text-xl md:text-4xl xl:text-[40px] xl:leading-[44px] font-bold xl:font-black font-[ME]">Let's discuss the details</h2>
+              <h2 className="p-2 px-0 md:p-5 md:px-0 text-xl md:text-4xl xl:text-[40px] xl:leading-[44px] font-bold xl:font-black font-[ME]">Let's discuss the details</h2>
               <button className="mt-4 xl:mt-10 p-3 px-5 xl:p-3 xl:px-6 rounded-full text-sm md:text-base font-medium text-[#1f1f1f] bg-white">Schedule a Call</button>
             </div>
             <div className="w-full xl:w-[40%] h-1/2 xl:h-full flex items-start xl:items-center xl:justify-center">
