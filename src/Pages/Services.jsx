@@ -60,7 +60,7 @@ const   Services = () => {
               ))}
             </div>
             <div className="w-full xl:w-[60%] h-full flex flex-col xl:flex-row gap-2 xl:gap-5">
-              <div className="w-full xl:w-[60%] h-full">
+              <div className="w-full h-[25vh] xl:w-[60%] xl:h-full">
                 <img className="w-full h-full object-cover rounded-2xl" src={selectedService.image} alt="" />
               </div>
               <div className="w-full xl:w-[40%] xl:h-full flex gap-2 xl:gap-5 xl:flex-col">

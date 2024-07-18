@@ -50,7 +50,7 @@ const Works = () => {
               <div className="w-16 h-16 rounded-full flex items-center justify-center text-white bg-black">
                 <span className="text-lg font-black font-[ME]">03.</span>
               </div>
-              <div className="w-[65%] xl:w-1/2 h-full">
+              <div className="w-[65%] md:w-1/2 h-full">
                 <img className="h-full object-cover" src={Storytelling} alt="" />
               </div>
             </div>
@@ -95,7 +95,7 @@ const Works = () => {
               <div className="w-16 h-16 rounded-full flex items-center justify-center text-white bg-black">
                 <span className="text-lg font-black font-[ME]">06.</span>
               </div>
-              <div className="w-[45%] xl:w-1/2 h-full">
+              <div className="w-[65%] md:w-1/2 h-full">
                 <img className="h-full object-cover" src={Designing} alt="" />
               </div>
             </div>
